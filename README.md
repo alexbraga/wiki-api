@@ -59,7 +59,6 @@ The following tools were used in the construction of the project:
 
 #### **Server** ([Node.js](https://nodejs.org/en/))
 
-- **[EJS](https://ejs.co/)**
 - **[Express](https://expressjs.com/)**
 - **[Mongoose](https://mongoosejs.com/)**
 
