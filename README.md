@@ -18,6 +18,12 @@
 
 ---
 
+## Features
+
+- CRUD operations using HTTP methods
+
+---
+
 ## How it works
 
 ### Pre-requisites
