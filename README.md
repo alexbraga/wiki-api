@@ -33,6 +33,7 @@ machine:
 
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en/)
+- [npm](https://npmjs.com)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
 In addition, you might also want an editor to work with the code, like
